@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Amar 👋
 
-<!--
-**amar-codes25/amar-codes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Learning C, Python & GitHub  
+🚀 Building projects step by step  
 
-Here are some ideas to get you started:
+## Current Skills
+- C Programming
+- Python Basics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Projects
+- Student Grade Calculator
+- C Practice Programs
+- Python Learning Repo
+
+## Goals
+- Learn Full Stack Development
+- Build Real Projects
+- Improve Problem Solving
 -->
