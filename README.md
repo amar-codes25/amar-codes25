@@ -13,6 +13,8 @@
 - Student Grade Calculator
 - C Practice Programs
 - Python Learning Repo
+- shop bill generator
+- basic responce generator
 
 ## Goals
 - Learn Full Stack Development
