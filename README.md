@@ -8,6 +8,7 @@ I'm currently focused on building strong programming fundamentals through C, Pyt
 
 * C
 * Python
+* kotlin
 * Git
 * GitHub
 
